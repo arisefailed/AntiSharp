@@ -1,0 +1,14 @@
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\bin\x64\Debug\net8.0\AntiSharp.exe
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\bin\x64\Debug\net8.0\AntiSharp.deps.json
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\bin\x64\Debug\net8.0\AntiSharp.runtimeconfig.json
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\bin\x64\Debug\net8.0\AntiSharp.dll
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\bin\x64\Debug\net8.0\AntiSharp.pdb
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\AntiSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\AntiSharp.AssemblyInfoInputs.cache
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\AntiSharp.AssemblyInfo.cs
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\AntiSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\AntiSharp.dll
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\refint\AntiSharp.dll
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\AntiSharp.pdb
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\AntiSharp.genruntimeconfig.cache
+C:\Users\Alfi\OneDrive\Documents\ashborn\github\cshttp\AntiSharp\AntiSharp\obj\x64\Debug\net8.0\ref\AntiSharp.dll
